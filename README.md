@@ -1,3 +1,5 @@
+![MOVELAND](https://github.com/francovinicius/movieland/blob/main/public/img-do-projeto.svg)
+
 # Projeto - Buscador de Filmes
 
 O projeto simula um buscador de filmes, onde os usuários podem pesquisar por títulos de filmes e obter informações sobre eles.<br>
